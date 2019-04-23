@@ -1,11 +1,18 @@
 # mcp_delay
 Calculating mcp timing spread based on geometric calculations
 
-## Benchmarking
-| ![Schematic](/figs/ray_diagram.png) | 
+| ![Schematic](mcp_delay_schematic.png) | 
 |:--:| 
  **Figure 1**- The Metastable Helium atoms have a varied propagation distance from the surface of the mcp untill they strike on the side of the slanted mcp holes. |
+ 
+| ![Ray Tracing](/figs/ray_diagram.png) | 
+|:--:| 
+ **Figure 2**- Ray tracing alows the distribution to be calculated. |
 
+| ![Ray Tracing](/figs/mcp_delay_dist.png) | 
+|:--:| 
+ **Figure 3**- The distribution is quite simple. |
+ 
 
 
 
