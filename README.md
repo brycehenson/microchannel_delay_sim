@@ -14,3 +14,4 @@ This project would not have been possible without the many open source tools tha
 
 * ***James Conder*** [gaussfilt](https://au.mathworks.com/matlabcentral/fileexchange/43182-gaussfilt-t-z-sigma)
 * ***Patrick Egan*** [fwhm](https://au.mathworks.com/matlabcentral/fileexchange/10590-fwhm)
+* ***Yair Altman*** [export_fig](https://github.com/altmany/export_fig)
