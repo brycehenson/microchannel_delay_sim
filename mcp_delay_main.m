@@ -84,6 +84,9 @@ set(gcf,'color','w')
 %colormap gray
 %shading flat
 
+%export_fig figs/test.png -m3 -a4
+
+
 hold off
 pause(0.1)
 
