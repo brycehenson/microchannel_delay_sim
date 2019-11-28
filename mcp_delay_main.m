@@ -136,22 +136,22 @@ hold off
 
 figure(3)
 cum_counts=cumsum(counts.*(edges(2:end)-edges(1:end-1)));
-median=interp1(cum_counts,bin_cen,0.5);
+samp_median=interp1(cum_counts,bin_cen,0.5);
 plot(bin_cen,cum_counts,'k')
-line(median*[1,1],ylim,'Color',[1 0 0])
+line(samp_median*[1,1],ylim,'Color',[1 0 0])
 ylabel('Cumulative Fraction')
 xlabel('Travel Distance/Pore Radius')
 
 fprintf('mean %2.3e , std %2.3e , HWHM %2.3e \n',mean_len,std_len,hwhm_width)
-fprintf('median %2.3e , worst case %2.3e \n',median,worst_case) 
+fprintf('median %2.3e , worst case %2.3e \n',samp_median,worst_case) 
 %for our system
 pore_r=10e-6/2;
 t_worst=(pore_r*2/sin(pitch.rad))/vdet;
 fprintf('for our det\n')
 fprintf('mean %2.3e us , std %2.3e us, HWHM %2.3e us\n',mean_len*1e6*pore_r/vdet,std_len*1e6*pore_r/vdet,hwhm_width*1e6*pore_r/vdet)
-fprintf('median %2.3e us, worst case %2.3e us \nsampled with %2.1e points \n',median*1e6*pore_r/vdet,t_worst*1e6,size(line_len,1)) 
+fprintf('median %2.3e us, worst case %2.3e us \nsampled with %2.1e points \n',samp_median*1e6*pore_r/vdet,t_worst*1e6,size(line_len,1)) 
 figure(2)
-line(median.*[1,1],ylim,'Color',[1 0 0])
+line(samp_median.*[1,1],ylim,'Color',[1 0 0])
 
 
 

@@ -1,0 +1,275 @@
+ArcLenDefManual = 
+    (-(((2*I)*EllipticF[I*ArcSinh[E^(I*\[Alpha])*
+              Tan[(ArcTan[-(Sec[\[Alpha]]*Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                      4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)]), 
+                  -(d*Sec[\[Alpha]])] + (((2*I)*EllipticF[I*ArcSinh[
+                         E^(I*\[Alpha])*Tan[ArcTan[Sqrt[-d^2 + 4*Cos[
+                          \[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^
+                          2)], -d]/2]], E^((-4*I)*\[Alpha])] + EllipticE[
+                       I*ArcSinh[E^(I*\[Alpha])*Tan[ArcTan[Sqrt[-d^2 + 
+                          4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]], E^((-4*I)*\[Alpha])]*
+                      (-I + Tan[\[Alpha]]))*Sqrt[1 + Tan[ArcTan[Sqrt[-d^2 + 
+                          4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]^2/E^((2*I)*\[Alpha])]*
+                    Sqrt[1 + E^((2*I)*\[Alpha])*Tan[ArcTan[Sqrt[-d^2 + 
+                          4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]^2] + (Csc[2*\[Alpha]]*
+                     Sin[\[Alpha]]*(d*Cos[\[Alpha]] - 4*Sin[ArcTan[Sqrt[
+                          -d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*
+                          (2 + Tan[\[Alpha]]^2)], -d]/2]^2*Tan[ArcTan[
+                          Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*
+                          (2 + Tan[\[Alpha]]^2)], -d]/2]*(2*Cos[2*\[Alpha]] + 
+                        Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                          4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]^
+                         2)))/2)/Sqrt[1 + 2*Cos[2*\[Alpha]]*
+                     Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                          4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]^
+                      2 + Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                          4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]^
+                     4])/2]], E^((-4*I)*\[Alpha])] + 
+         EllipticE[I*ArcSinh[E^(I*\[Alpha])*Tan[(ArcTan[-(Sec[\[Alpha]]*
+                    Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*
+                       (2 + Tan[\[Alpha]]^2)]), -(d*Sec[\[Alpha]])] + 
+                 (((2*I)*EllipticF[I*ArcSinh[E^(I*\[Alpha])*Tan[ArcTan[
+                          Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*
+                          (2 + Tan[\[Alpha]]^2)], -d]/2]], E^((-4*I)*
+                         \[Alpha])] + EllipticE[I*ArcSinh[E^(I*\[Alpha])*
+                          Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                          4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]], 
+                       E^((-4*I)*\[Alpha])]*(-I + Tan[\[Alpha]]))*
+                    Sqrt[1 + Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                          4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]^2/
+                       E^((2*I)*\[Alpha])]*Sqrt[1 + E^((2*I)*\[Alpha])*
+                       Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                          4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]^
+                        2] + (Csc[2*\[Alpha]]*Sin[\[Alpha]]*
+                     (d*Cos[\[Alpha]] - 4*Sin[ArcTan[Sqrt[-d^2 + 
+                          4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]^2*Tan[ArcTan[Sqrt[-d^2 + 
+                          4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]*(2*Cos[2*\[Alpha]] + 
+                        Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                          4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]^
+                         2)))/2)/Sqrt[1 + 2*Cos[2*\[Alpha]]*
+                     Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                          4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]^
+                      2 + Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                          4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]^
+                     4])/2]], E^((-4*I)*\[Alpha])]*(-I + Tan[\[Alpha]]))*
+        Sqrt[1 + Tan[(ArcTan[-(Sec[\[Alpha]]*Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                    4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)]), 
+                -(d*Sec[\[Alpha]])] + (((2*I)*EllipticF[I*ArcSinh[
+                       E^(I*\[Alpha])*Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^
+                          2 + 4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/
+                          2]], E^((-4*I)*\[Alpha])] + EllipticE[
+                     I*ArcSinh[E^(I*\[Alpha])*Tan[ArcTan[Sqrt[-d^2 + 
+                          4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]], E^((-4*I)*\[Alpha])]*
+                    (-I + Tan[\[Alpha]]))*Sqrt[1 + Tan[ArcTan[Sqrt[-d^2 + 
+                          4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]^2/E^((2*I)*\[Alpha])]*
+                  Sqrt[1 + E^((2*I)*\[Alpha])*Tan[ArcTan[Sqrt[-d^2 + 
+                          4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]^2] + (Csc[2*\[Alpha]]*
+                   Sin[\[Alpha]]*(d*Cos[\[Alpha]] - 4*Sin[ArcTan[Sqrt[
+                          -d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*
+                          (2 + Tan[\[Alpha]]^2)], -d]/2]^2*Tan[
+                      ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^
+                          2*(2 + Tan[\[Alpha]]^2)], -d]/2]*
+                     (2*Cos[2*\[Alpha]] + Tan[ArcTan[Sqrt[-d^2 + 
+                          4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]^2)))/2)/
+                Sqrt[1 + 2*Cos[2*\[Alpha]]*Tan[ArcTan[Sqrt[-d^2 + 
+                         4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]^2 + 
+                  Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^
+                          2*(2 + Tan[\[Alpha]]^2)], -d]/2]^4])/2]^2/
+           E^((2*I)*\[Alpha])]*Sqrt[1 + E^((2*I)*\[Alpha])*
+           Tan[(ArcTan[-(Sec[\[Alpha]]*Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                    4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)]), 
+                -(d*Sec[\[Alpha]])] + (((2*I)*EllipticF[I*ArcSinh[
+                       E^(I*\[Alpha])*Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^
+                          2 + 4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/
+                          2]], E^((-4*I)*\[Alpha])] + EllipticE[
+                     I*ArcSinh[E^(I*\[Alpha])*Tan[ArcTan[Sqrt[-d^2 + 
+                          4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]], E^((-4*I)*\[Alpha])]*
+                    (-I + Tan[\[Alpha]]))*Sqrt[1 + Tan[ArcTan[Sqrt[-d^2 + 
+                          4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]^2/E^((2*I)*\[Alpha])]*
+                  Sqrt[1 + E^((2*I)*\[Alpha])*Tan[ArcTan[Sqrt[-d^2 + 
+                          4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]^2] + (Csc[2*\[Alpha]]*
+                   Sin[\[Alpha]]*(d*Cos[\[Alpha]] - 4*Sin[ArcTan[Sqrt[
+                          -d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*
+                          (2 + Tan[\[Alpha]]^2)], -d]/2]^2*Tan[
+                      ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^
+                          2*(2 + Tan[\[Alpha]]^2)], -d]/2]*
+                     (2*Cos[2*\[Alpha]] + Tan[ArcTan[Sqrt[-d^2 + 
+                          4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]^2)))/2)/
+                Sqrt[1 + 2*Cos[2*\[Alpha]]*Tan[ArcTan[Sqrt[-d^2 + 
+                         4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]^2 + 
+                  Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^
+                          2*(2 + Tan[\[Alpha]]^2)], -d]/2]^4])/2]^2]) + 
+      Csc[2*\[Alpha]]*Sin[\[Alpha]]*
+       (Sin[ArcTan[-(Sec[\[Alpha]]*Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*
+                Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)]), 
+           -(d*Sec[\[Alpha]])] + 
+          (((2*I)*EllipticF[I*ArcSinh[E^(I*\[Alpha])*Tan[ArcTan[Sqrt[
+                       -d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]], E^((-4*I)*\[Alpha])] + 
+              EllipticE[I*ArcSinh[E^(I*\[Alpha])*Tan[ArcTan[Sqrt[-d^2 + 
+                        4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]], E^((-4*I)*\[Alpha])]*(
+                -I + Tan[\[Alpha]]))*Sqrt[1 + Tan[ArcTan[Sqrt[-d^2 + 
+                      4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                        Tan[\[Alpha]]^2)], -d]/2]^2/E^((2*I)*\[Alpha])]*
+             Sqrt[1 + E^((2*I)*\[Alpha])*Tan[ArcTan[Sqrt[-d^2 + 
+                      4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                        Tan[\[Alpha]]^2)], -d]/2]^2] + 
+            (Csc[2*\[Alpha]]*Sin[\[Alpha]]*(d*Cos[\[Alpha]] - 4*
+                Sin[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*
+                       (2 + Tan[\[Alpha]]^2)], -d]/2]^2*
+                Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*
+                      (2 + Tan[\[Alpha]]^2)], -d]/2]*(2*Cos[2*\[Alpha]] + 
+                 Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*
+                        (2 + Tan[\[Alpha]]^2)], -d]/2]^2)))/2)/
+           Sqrt[1 + 2*Cos[2*\[Alpha]]*Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^
+                      2 + 4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]^
+               2 + Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^
+                     2*(2 + Tan[\[Alpha]]^2)], -d]/2]^4]] + 
+        2*Sin[(ArcTan[-(Sec[\[Alpha]]*Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                  4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)]), 
+              -(d*Sec[\[Alpha]])] + (((2*I)*EllipticF[I*ArcSinh[
+                     E^(I*\[Alpha])*Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^
+                          2 + 4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/
+                        2]], E^((-4*I)*\[Alpha])] + EllipticE[
+                   I*ArcSinh[E^(I*\[Alpha])*Tan[ArcTan[Sqrt[-d^2 + 
+                          4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]], E^((-4*I)*\[Alpha])]*
+                  (-I + Tan[\[Alpha]]))*Sqrt[1 + Tan[ArcTan[Sqrt[-d^2 + 
+                         4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]^2/E^((2*I)*\[Alpha])]*
+                Sqrt[1 + E^((2*I)*\[Alpha])*Tan[ArcTan[Sqrt[-d^2 + 
+                         4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]^2] + (Csc[2*\[Alpha]]*
+                 Sin[\[Alpha]]*(d*Cos[\[Alpha]] - 4*Sin[ArcTan[Sqrt[-d^2 + 
+                         4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]^2*Tan[ArcTan[Sqrt[
+                       -d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]*(2*Cos[2*\[Alpha]] + 
+                    Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                          4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]^
+                     2)))/2)/Sqrt[1 + 2*Cos[2*\[Alpha]]*
+                 Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*
+                        (2 + Tan[\[Alpha]]^2)], -d]/2]^2 + 
+                Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*
+                       (2 + Tan[\[Alpha]]^2)], -d]/2]^4])/2]^2*
+         Tan[(ArcTan[-(Sec[\[Alpha]]*Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                 4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)]), 
+             -(d*Sec[\[Alpha]])] + (((2*I)*EllipticF[I*ArcSinh[E^(I*\[Alpha])*
+                     Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                          4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]], 
+                  E^((-4*I)*\[Alpha])] + EllipticE[I*ArcSinh[E^(I*\[Alpha])*
+                     Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                          4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]], 
+                  E^((-4*I)*\[Alpha])]*(-I + Tan[\[Alpha]]))*Sqrt[
+                1 + Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                        4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]^2/
+                  E^((2*I)*\[Alpha])]*Sqrt[1 + E^((2*I)*\[Alpha])*
+                  Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^
+                          2*(2 + Tan[\[Alpha]]^2)], -d]/2]^2] + 
+              (Csc[2*\[Alpha]]*Sin[\[Alpha]]*(d*Cos[\[Alpha]] - 
+                 4*Sin[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^
+                          2*(2 + Tan[\[Alpha]]^2)], -d]/2]^2*
+                  Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^
+                         2*(2 + Tan[\[Alpha]]^2)], -d]/2]*
+                  (2*Cos[2*\[Alpha]] + Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^
+                          2 + 4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/
+                      2]^2)))/2)/Sqrt[1 + 2*Cos[2*\[Alpha]]*
+                Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*
+                       (2 + Tan[\[Alpha]]^2)], -d]/2]^2 + 
+               Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*
+                      (2 + Tan[\[Alpha]]^2)], -d]/2]^4])/2]*
+         (2*Cos[2*\[Alpha]] + Tan[(ArcTan[-(Sec[\[Alpha]]*Sqrt[-d^2 + 
+                   4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^
+                      2)]), -(d*Sec[\[Alpha]])] + 
+              (((2*I)*EllipticF[I*ArcSinh[E^(I*\[Alpha])*Tan[ArcTan[Sqrt[
+                          -d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*
+                          (2 + Tan[\[Alpha]]^2)], -d]/2]], E^((-4*I)*
+                      \[Alpha])] + EllipticE[I*ArcSinh[E^(I*\[Alpha])*
+                       Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                          4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]], 
+                    E^((-4*I)*\[Alpha])]*(-I + Tan[\[Alpha]]))*
+                 Sqrt[1 + Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                          4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]^2/
+                    E^((2*I)*\[Alpha])]*Sqrt[1 + E^((2*I)*\[Alpha])*
+                    Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                          4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]^
+                     2] + (Csc[2*\[Alpha]]*Sin[\[Alpha]]*(d*Cos[\[Alpha]] - 
+                   4*Sin[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                          4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]^2*
+                    Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                         4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]*
+                    (2*Cos[2*\[Alpha]] + Tan[ArcTan[Sqrt[-d^2 + 
+                          4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*(2 + 
+                          Tan[\[Alpha]]^2)], -d]/2]^2)))/2)/Sqrt[
+                1 + 2*Cos[2*\[Alpha]]*Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^
+                          2 + 4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/
+                     2]^2 + Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                       4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]^4])/
+             2]^2)))/Sqrt[1 + 2*Cos[2*\[Alpha]]*
+        Tan[(ArcTan[-(Sec[\[Alpha]]*Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                 4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)]), 
+             -(d*Sec[\[Alpha]])] + (((2*I)*EllipticF[I*ArcSinh[E^(I*\[Alpha])*
+                     Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                          4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]], 
+                  E^((-4*I)*\[Alpha])] + EllipticE[I*ArcSinh[E^(I*\[Alpha])*
+                     Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                          4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]], 
+                  E^((-4*I)*\[Alpha])]*(-I + Tan[\[Alpha]]))*Sqrt[
+                1 + Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                        4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]^2/
+                  E^((2*I)*\[Alpha])]*Sqrt[1 + E^((2*I)*\[Alpha])*
+                  Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^
+                          2*(2 + Tan[\[Alpha]]^2)], -d]/2]^2] + 
+              (Csc[2*\[Alpha]]*Sin[\[Alpha]]*(d*Cos[\[Alpha]] - 
+                 4*Sin[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^
+                          2*(2 + Tan[\[Alpha]]^2)], -d]/2]^2*
+                  Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^
+                         2*(2 + Tan[\[Alpha]]^2)], -d]/2]*
+                  (2*Cos[2*\[Alpha]] + Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^
+                          2 + 4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/
+                      2]^2)))/2)/Sqrt[1 + 2*Cos[2*\[Alpha]]*
+                Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*
+                       (2 + Tan[\[Alpha]]^2)], -d]/2]^2 + 
+               Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*
+                      (2 + Tan[\[Alpha]]^2)], -d]/2]^4])/2]^2 + 
+       Tan[(ArcTan[-(Sec[\[Alpha]]*Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)]), 
+            -(d*Sec[\[Alpha]])] + (((2*I)*EllipticF[I*ArcSinh[E^(I*\[Alpha])*
+                    Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                         4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]], 
+                 E^((-4*I)*\[Alpha])] + EllipticE[I*ArcSinh[E^(I*\[Alpha])*
+                    Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                         4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]], 
+                 E^((-4*I)*\[Alpha])]*(-I + Tan[\[Alpha]]))*
+              Sqrt[1 + Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                       4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]^2/
+                 E^((2*I)*\[Alpha])]*Sqrt[1 + E^((2*I)*\[Alpha])*
+                 Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*
+                        (2 + Tan[\[Alpha]]^2)], -d]/2]^2] + 
+             (Csc[2*\[Alpha]]*Sin[\[Alpha]]*(d*Cos[\[Alpha]] - 
+                4*Sin[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^
+                         2*(2 + Tan[\[Alpha]]^2)], -d]/2]^2*
+                 Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^2*
+                       (2 + Tan[\[Alpha]]^2)], -d]/2]*(2*Cos[2*\[Alpha]] + 
+                  Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 4*Sin[\[Alpha]]^
+                          2*(2 + Tan[\[Alpha]]^2)], -d]/2]^2)))/2)/
+            Sqrt[1 + 2*Cos[2*\[Alpha]]*Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^
+                       2 + 4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]^
+                2 + Tan[ArcTan[Sqrt[-d^2 + 4*Cos[\[Alpha]]^2 + 
+                    4*Sin[\[Alpha]]^2*(2 + Tan[\[Alpha]]^2)], -d]/2]^4])/2]^4]
