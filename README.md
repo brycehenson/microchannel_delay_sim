@@ -6,7 +6,7 @@ This code presents the distribution of detection times for slowly moving particl
 
 | <img src="/figs/mcp_pore_delay_side_top_view.png" alt="Schematic" width="700" align="middle"> | 
 |:--:| 
- **Figure 1**- The Metastable Helium atoms have a varied propagation distance from the surface of the MCP until they strike on the side of the slanted MCP holes. |
+ **Figure 1**- A) Side View: The Metastable Helium atoms have a varied propagation distance from the surface of the MCP until they strike on the side of the slanted MCP holes. B) Top View: The entrance aperture is shown as green solid line and the elipse coresponding to the input positions in x,y to give a delay t are shown in blue dashed line. The cumulative distribution function (CDF) at time t is found by calculating the shaded area between the two ellipses (wich are the same function translated by Δy).  |
  
 |  <img src="/figs/ray_diagram.png" alt="Ray Tracing" width="400" align="middle">  | 
 |:--:| 
@@ -14,7 +14,7 @@ This code presents the distribution of detection times for slowly moving particl
 
 | <img src="/figs/mcp_delay_combined_functions_plot.png" alt="Distribution" width="700" align="middle"> | 
 |:--:| 
- **Figure 3**- The derived distributions a) probability distribution function. b) cumulative distribution function c) two sample difference distribution. |
+ **Figure 3**- The derived distributions of delays relative to the front face of the MCP. a) probability distribution function. b) cumulative distribution function c) two sample difference distribution. |
  
 
 ## TODO
