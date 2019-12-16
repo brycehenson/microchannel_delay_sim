@@ -19,16 +19,16 @@ In the worst case this delay will be
 where $\alpha$ is the pore angle to vertical, $r_{\mathrm{pore}}$ is the pore radius and $v$ is the velocity at the detector.  
 
 The PDF is found to be 
-<img src="/figs/pdf.png" alt="pdf" width="400" align="middle">  
+<img src="/figs/eq/pdf.png" alt="pdf" width="400" align="middle">  
 with mean ≈0.4244·t_max and standard deviation ≈0.2643·t_max  The corresponding CDF is
-<img src="/figs/cdf.png" alt="pdf" width="400" align="middle">  
+<img src="/figs/eq/cdf.png" alt="cdf" width="400" align="middle">  
 with median t_delay≈0.4039.
 The two sample difference distribution is
-<img src="/figs/2sample_diff_dist.png" alt="pdf" width="400" align="middle">  
+<img src="/figs/eq/2sample_diff_dist.png" alt="2sample_diff_dist" width="400" align="middle">  
 which uses the elliptic integerals defined as :
-<img src="/figs/elliptic_int_def.png" alt="pdf" width="400" align="middle">
+<img src="/figs/eq/elliptic_int_def.png" alt="elliptic_int_def" width="400" align="middle">
 . The two sample difference distribution has standard deviation 0.3738 t_max and FWHM of 0.9113 t_max. It is reasonably aproximated by the tirangle function
-<img src="/figs/tirangle_fun.png" alt="pdf" width="400" align="middle">
+<img src="/figs/eq/tirangle_fun.png" alt="tirangle_fun" width="400" align="middle">
 where H is the unit step function and s is a sale factor which produces the best RMSE to the true difference distribution when it is equal to 1.1050 .
  
 | <img src="/figs/mcp_delay_combined_functions_plot.png" alt="Distribution" width="700" align="middle"> | 
