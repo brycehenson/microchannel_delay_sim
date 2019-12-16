@@ -15,7 +15,7 @@ This code presents the distribution of detection times for slowly moving particl
 
  ## Results
 In the worst case this delay will be  
-<img src="/figs/eq/tmax.png" alt="t_max" width="300" align="middle">  
+<img src="/figs/eq/tmax.png" alt="t_max" width="200" align="middle">  
 where \alpha is the pore angle to vertical, r_{\mathrm{pore}} is the pore radius and v is the velocity at the detector.  
 The PDF is found to be  
 <img src="/figs/eq/pdf.png" alt="pdf" width="600" align="middle">  
