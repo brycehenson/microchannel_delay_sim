@@ -24,7 +24,7 @@ The corresponding CDF is
 <img src="/figs/eq/cdf.png" alt="cdf" width="500" align="middle">  
 with median t_delay≈0.4039.
 The two sample difference distribution is  
-<img src="/figs/eq/2sample_diff_dist.png" alt="2sample_diff_dist" width="700" align="middle">  
+<img src="/figs/eq/2sample_diff_dist.png" alt="2sample_diff_dist" width="500" align="middle">  
 which uses the elliptic integerals defined as :  
 <img src="/figs/eq/elliptic_int_def.png" alt="elliptic_int_def" width="300" align="middle">  
 . The two sample difference distribution has standard deviation 0.3738 t_max and FWHM of 0.9113 t_max. It is reasonably aproximated by the tirangle function  
