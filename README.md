@@ -12,9 +12,28 @@ This code presents the distribution of detection times for slowly moving particl
 |:--:| 
  **Figure 2**- Ray tracing allows the distribution to be approximated and to verify the analytical treatment. |
 
+
+ ## Results
+In the worst case this delay will be 
+<img src="/figs/tmax.png" alt="t_max" width="400" align="middle">  
+where $\alpha$ is the pore angle to vertical, $r_{\mathrm{pore}}$ is the pore radius and $v$ is the velocity at the detector.  
+
+The PDF is found to be 
+<img src="/figs/pdf.png" alt="pdf" width="400" align="middle">  
+with mean ≈0.4244·t_max and standard deviation ≈0.2643·t_max  The corresponding CDF is
+<img src="/figs/cdf.png" alt="pdf" width="400" align="middle">  
+with median t_delay≈0.4039.
+The two sample difference distribution is
+<img src="/figs/2sample_diff_dist.png" alt="pdf" width="400" align="middle">  
+which uses the elliptic integerals defined as :
+<img src="/figs/elliptic_int_def.png" alt="pdf" width="400" align="middle">
+. The two sample difference distribution has standard deviation 0.3738 t_max and FWHM of 0.9113 t_max. It is reasonably aproximated by the tirangle function
+<img src="/figs/tirangle_fun.png" alt="pdf" width="400" align="middle">
+where H is the unit step function and s is a sale factor which produces the best RMSE to the true difference distribution when it is equal to 1.1050 .
+ 
 | <img src="/figs/mcp_delay_combined_functions_plot.png" alt="Distribution" width="700" align="middle"> | 
 |:--:| 
- **Figure 3**- The derived distributions of delays relative to the front face of the MCP. a) probability distribution function. b) cumulative distribution function c) two sample difference distribution. |
+ **Figure 3**- The derived distributions of delays relative to the front face of the MCP. a) probability distribution function. b) cumulative distribution function c) two sample difference distribution with best triangular aproximation given. |
  
 
 ## TODO
