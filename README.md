@@ -1,8 +1,8 @@
-# mcp_delay
-Calculating MCP timing spread based on geometric calculations.
+# MicroChannel Plate Delay
+Calculating MCP timing spread for slow particles based on geometric calculations.
 **Bryce M. Henson**
 
-This code presents the distribution of detection times for slowly moving particles that are detected with a Multi Channel Plate MCP (a type of 2d electron multiplier). The delays are derived using a geometric model that considers the pore as a cylinder and the MCP front face as perfectly flat. I present two parts to this code: a numerical simulation of the propagation time in Matlab, and an analytic derivation in Mathematica. This project was started to predict the temporal resolution of delays in a metastable helium cold atom experiment.
+This code presents the distribution of detection times for slowly moving particles that are detected with a a type of 2d electron multiplier known as a MicroChannel Plate (MCP) (aka. Multi Channel Plate),  The delays are derived using a geometric model that considers the pore as a cylinder and the MCP front face as perfectly flat. I present two parts to this code: a numerical simulation of the propagation time in Matlab, and an analytic derivation in Mathematica. This project was started to predict the temporal resolution of delays in a metastable helium cold atom experiment.
 
 | <img src="/figs/mcp_pore_delay_side_top_view.png" alt="Schematic" width="400" align="middle"> | 
 |:--:| 
@@ -14,7 +14,7 @@ This code presents the distribution of detection times for slowly moving particl
 
 | <img src="/figs/mcp_delay_combined_functions_plot.png" alt="Distribution" width="400" align="middle"> | 
 |:--:| 
- **Figure 3**- The derived distributions a) probability distribution function. b) cumulative distribution function c) two sample difference distribution . |
+ **Figure 3**- The derived distributions a) probability distribution function. b) cumulative distribution function c) two sample difference distribution. |
  
 
 ## TODO

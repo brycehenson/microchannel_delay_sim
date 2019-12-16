@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="82.264801mm"
-   height="74.062027mm"
-   viewBox="0 0 82.264801 74.062027"
+   width="640"
+   height="320"
+   viewBox="0 0 169.33333 84.666669"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.1 r15371"
-   sodipodi:docname="Mcp.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="mcp_delay_schematic.svg"
+   inkscape:export-filename="E:\Dropbox\UNI\projects\programs\mcp_delay_sim_git\figs\mcp_delay_schematic.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs2">
     <marker
@@ -118,8 +121,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="183.17626"
-     inkscape:cy="133.44958"
+     inkscape:cx="420.99549"
+     inkscape:cy="150.5735"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -135,11 +138,12 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      inkscape:window-x="1912"
-     inkscape:window-y="315"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="101"
+     inkscape:window-maximized="1"
+     units="px" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -148,7 +152,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -156,63 +160,80 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-53.550448,-72.247676)">
+     transform="translate(-53.550448,-61.643032)">
     <path
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 204.28516,366.80469 V 551.0918 h 25.38281 L 364.66602,366.80469 Z m 277.48437,0 L 346.77148,551.0918 H 511.42773 V 366.80469 Z"
-       transform="scale(0.26458333)"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 178.34564,91.972285 v 48.759295 h -6.71587 L 135.91154,91.972285 Z m -73.41773,0 35.71823,48.759295 H 97.080842 V 91.972285 Z"
        id="rect4485"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ff2a2a;stroke:#ff2a2a;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6434)"
-       d="M 99.541573,82.224128 V 133.39258"
+       d="m 132.85452,84.422049 0,43.892411"
        id="path4492"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#ff2a2a;stroke:#ff2a2a;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-       d="m 112.01806,82.233896 -0.0417,34.395784"
+       d="m 120.37803,84.620805 0.0417,26.930755"
        id="path4492-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#ff2a2a;stroke:#ff2a2a;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6394)"
-       d="M 124.52147,82.233897 V 99.292296"
+       d="m 107.87462,84.148336 0,10.065839"
        id="path4492-9-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="58.019344"
-       y="111.79166"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="150.7813"
+       y="106.71354"
        id="text6634"><tspan
          sodipodi:role="line"
          id="tspan6632"
-         x="58.019344"
-         y="111.79166"
-         style="stroke-width:0.26458332">MCP</tspan></text>
+         x="150.7813"
+         y="106.71354"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmr10;-inkscape-font-specification:cmr10;stroke-width:0.26458332">MCP</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="70.840843"
-       y="140.46527"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="137.94945"
+       y="135.38715"
        id="text6794"><tspan
          sodipodi:role="line"
          id="tspan6792"
-         x="70.840843"
-         y="140.46527"
-         style="stroke-width:0.26458332">Pore</tspan></text>
+         x="137.94945"
+         y="135.38715"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmr10;-inkscape-font-specification:cmr10;stroke-width:0.26458332">Pore</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="102.11201"
-       y="80.288528"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;letter-spacing:0px;word-spacing:0px;fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="112.53906"
+       y="83.061455"
        id="text6798"><tspan
          sodipodi:role="line"
          id="tspan6796"
-         x="102.11201"
-         y="80.288528"
-         style="fill:#ff2a2a;stroke-width:0.26458332">He*</tspan></text>
+         x="112.53906"
+         y="83.061455"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmr10;-inkscape-font-specification:cmr10;fill:#ff2a2a;stroke-width:0.26458332">He*</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect870"
+       width="169.44888"
+       height="85.526245"
+       x="53.817719"
+       y="61.317989" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.69776225px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:'cmr10, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="137.21057"
+       y="72.037376"
+       id="text1246"><tspan
+         sodipodi:role="line"
+         id="tspan1244"
+         x="137.21057"
+         y="72.037376"
+         style="font-size:10.58333302px;stroke-width:0.26458332">MicroChannel Plate Delay</tspan></text>
   </g>
 </svg>
