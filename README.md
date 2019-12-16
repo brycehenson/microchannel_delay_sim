@@ -14,6 +14,11 @@ This code presents the distribution of detection times for slowly moving particl
 
 
  ## Results
+ 
+| <img src="/figs/mcp_delay_combined_functions_plot.png" alt="Distribution" width="700" align="middle"> | 
+|:--:| 
+ **Figure 3**- The derived distributions of delays relative to the front face of the MCP. a) probability distribution function. b) cumulative distribution function c) two sample difference distribution (solid brown line) with  triangular aproximation shown (ashed light blue line). |
+ 
 In the worst case this delay will be  
 <img src="/figs/eq/tmax.png" alt="t_max" width="200" align="middle">  
 where \alpha is the pore angle to vertical, r_{\mathrm{pore}} is the pore radius and v is the velocity at the detector.  
@@ -31,9 +36,7 @@ which uses the elliptic integerals defined as :
 <img src="/figs/eq/tirangle_fun.png" alt="tirangle_fun" width="350" align="middle">  
 where H is the unit step function and s is a sale factor which produces the best RMSE to the true difference distribution when it is equal to 1.1050 .
  
-| <img src="/figs/mcp_delay_combined_functions_plot.png" alt="Distribution" width="700" align="middle"> | 
-|:--:| 
- **Figure 3**- The derived distributions of delays relative to the front face of the MCP. a) probability distribution function. b) cumulative distribution function c) two sample difference distribution with best triangular aproximation given. |
+
  
 
 ## TODO
