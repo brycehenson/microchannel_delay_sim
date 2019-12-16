@@ -4,15 +4,15 @@ Calculating MCP timing spread based on geometric calculations.
 
 This code presents the distribution of detection times for slowly moving particles that are detected with a Multi Channel Plate MCP (a type of 2d electron multiplier). The delays are derived using a geometric model that considers the pore as a cylinder and the MCP front face as perfectly flat. I present two parts to this code: a numerical simulation of the propagation time in Matlab, and an analytic derivation in Mathematica. This project was started to predict the temporal resolution of delays in a metastable helium cold atom experiment.
 
-| <img src="/figs/mcp_pore_delay_side_top_view.png" alt="Schematic" width="400" align="middle"> | 
+| <img src="/figs/mcp_pore_delay_side_top_view.png" alt="Schematic" width="700" align="middle"> | 
 |:--:| 
  **Figure 1**- The Metastable Helium atoms have a varied propagation distance from the surface of the MCP until they strike on the side of the slanted MCP holes. |
  
-| ![Ray Tracing](/figs/ray_diagram.png) | 
+|  <img src="/figs/ray_diagram.png" alt="Ray Tracing" width="400" align="middle">  | 
 |:--:| 
  **Figure 2**- Ray tracing allows the distribution to be approximated and to verify the analytical treatment. |
 
-| <img src="/figs/mcp_delay_combined_functions_plot.png" alt="Distribution" width="400" align="middle"> | 
+| <img src="/figs/mcp_delay_combined_functions_plot.png" alt="Distribution" width="700" align="middle"> | 
 |:--:| 
  **Figure 3**- The derived distributions a) probability distribution function. b) cumulative distribution function c) two sample difference distribution . |
  
