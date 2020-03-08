@@ -1,6 +1,7 @@
 # MicroChannel (MultiChannel) Plate Delay
+**[Bryce M. Henson](https://github.com/brycehenson)**  
 Calculating MCP timing spread for slow particles based on geometric calculations.  
-**Bryce M. Henson**  
+
 
 This code presents the distribution of detection times for slowly moving (neutral) particles that are detected with a a type of 2d electron multiplier known as a MicroChannel Plate (MCP) (aka. Multi Channel Plate). The delays arise from the finite propagation time into the detection pore before they cause an electron cascade.  The delays are derived using a geometric model that considers the pore as a cylinder and the MCP front face as perfectly flat. I present two parts to this code: a numerical simulation of the propagation time in Matlab, and an analytic derivation in Mathematica. This project was started to predict the temporal resolution of delays in a metastable helium cold atom experiment.
 
